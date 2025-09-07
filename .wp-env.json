@@ -1,0 +1,13 @@
+{
+  "core": "WordPress/WordPress#6.8",
+  "phpVersion": "8.4",
+  "plugins": [
+    "./plugins/essential-addons-elementor.6.6.0.zip"
+  ],
+  "themes": [
+    "WordPress/twentytwentyfive"
+  ],
+  "config": {
+    "WP_DEBUG": true
+  }
+}
