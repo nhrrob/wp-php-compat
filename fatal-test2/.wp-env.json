@@ -1,0 +1,15 @@
+{
+  "core": "WordPress/WordPress#6.6",
+  "phpVersion": "7.4",
+  "plugins": [
+    "./plugins/elementor",
+    "./plugins/essential-addons-for-elementor-lite",
+    "./plugins/essential-addons-elementor"
+  ],
+  "themes": [
+    "WordPress/twentytwentyfive"
+  ],
+  "config": {
+    "WP_DEBUG": true
+  }
+}
